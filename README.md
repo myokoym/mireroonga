@@ -9,5 +9,5 @@ A toy.
 ## Build
 
 ```sh
-% gcc miroonga.c `pkg-config --cflags --libs groonga`
+% gcc mireroonga.c `pkg-config --cflags --libs groonga`
 ```
